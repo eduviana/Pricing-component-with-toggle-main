@@ -41,11 +41,13 @@ Los usuarios deben poder:
 
 ### Lo-que-aprendí
 
-- 
+Aprendí a utilizar los eventos de js para realizar un toggle que muestra un contenido depediendo de su estado.
+Utilicé el selector combinador de hermanos adyacentes (ej: input:checked + .slider).
  
 
 ### Desarrollo-continuo
 
+Los patrones del fondo de la página no se muestran correctamente (se cortan las lineas al llegar a las cards)
 
 
 
